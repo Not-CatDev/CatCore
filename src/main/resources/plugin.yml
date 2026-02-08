@@ -1,0 +1,6 @@
+name: CatCore
+version: '1.0.0'
+main: de.catdev.catCore.Main
+api-version: '1.21'
+load: STARTUP
+authors: [ Cat__Dev ]
